@@ -1,0 +1,4 @@
+Geçerli mikro işlem girilmelidir.Girilen mikro işlemin geçerliliği kontrol edilmedi.
+ALU sınıfı sadece DR ve AC arasındaki iletişim için oluşturuldu.
+Proje vscode içerisinde yazıldı fakat eclipse içinde çalıştırıldı.
+M[X] <- M[X]  ataması yapılamaz. M[SAYI] <- REGİSTER, M[REGİSTER] <- REGİSTER atama yapılabilir.
